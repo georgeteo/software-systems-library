@@ -14,6 +14,7 @@ This is a list of great resources for building software systems curated by georg
 
 - [The Production Environment at Google](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) and [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa): an interesting insight into Google's internal infrastructure.
 - [The SRE Book](https://landing.google.com/sre/sre-book/toc/)
+- [Reconciler Pattern](https://hackernoon.com/level-triggering-and-reconciliation-in-kubernetes-1f17fe30333d)
 
 ## Soft Skills
 
