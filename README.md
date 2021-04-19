@@ -6,6 +6,7 @@ This is a list of great resources for building software systems curated by georg
 
 - [Building Software Systems At Google and Lessons Learned](https://www.youtube.com/watch?v=modXC5IWTJI) by Jeff Dean: this is a great presentation about the principles of designing large scale software systems. I watch this video every couple years and take away a new pearl of wisdom. Highly recommend!
 - [Schema Evolution](https://martin.kleppmann.com/2012/12/05/schema-evolution-in-avro-protocol-buffers-thrift.html)
+- [Testing](https://martinfowler.com/articles/mocksArentStubs.html)
 
 ## Distributed Systems
 
@@ -21,3 +22,8 @@ This is a list of great resources for building software systems curated by georg
 ## Soft Skills
 
 - [The Effective Engineer](http://www.effectiveengineer.com/)
+
+## Tools
+
+- [PlantUml])http://www.plantuml.com/plantuml)
+- [GraphViz Online](https://dreampuf.github.io/GraphvizOnline)
